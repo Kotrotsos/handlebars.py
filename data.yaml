@@ -1,0 +1,5 @@
+prefix: Hello
+people:
+  - first_name: John
+  - first_name: Jane
+  - first_name: Marco
